@@ -1,5 +1,9 @@
 # 求人リスト（コーダー募集130社）差別化リサーチ
 
+> 別リサーチ: 営業管理シートでランクVIP/A/B/Cが付いている26社の深掘り調査は
+> **[`research/RANKED_ACCOUNTS.md`](./RANKED_ACCOUNTS.md)** を参照。
+> 採用ページ・直近の制作実績・SNSの3軸調査に、コーディングでの打ち手と工数・金額を付けている。
+
 ## 成果物
 - `data/harowaka_coder_jobs_base.csv` … 元スプレッドシートの取り込み（4列）
 - `data/harowaka_coder_jobs_enriched.csv` … 調査結果を8列追加した最終版（12列）
